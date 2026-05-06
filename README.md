@@ -1,8 +1,6 @@
 <div align="center">
-#Fares Zribi
- 
-**Étudiant ingénieur à ECE Paris — Spécialisation cybersécurité**
- 
+  <h1>Fares Zribi</h1>
+  <p><strong>Étudiant ingénieur à ECE Paris — Spécialisation cybersécurité</strong></p>
 </div>
 ---
  
