@@ -17,10 +17,6 @@ En ING3 à partir de septembre 2026, spécialisation cybersécurité — **en re
 
 ## Projets
 
-### [ECE Badland](https://github.com/fafifou03/ECE-Badland)
-Jeu 2D en C inspire de Badland, realise en equipe de 4 pendant les cours d'informatique a l'ECE. Scrolling horizontal, collisions par pixels, bonus/malus, checkpoints et trois niveaux jouables.
-
-`C` `Allegro` `CMake`
 
 ### 🔐 [CryptoBox](https://github.com/fafifou03/cryptobox)
 Application web de transfert de fichiers chiffrés. Upload, chiffrement AES-256-GCM, génération d'URL temporaire, mode lien unique, mode mot de passe, gestion des accès non autorisés et journalisation des événements.
@@ -41,6 +37,11 @@ Simulateur pédagogique d'optimisation énergétique. Frontend React/TypeScript,
 Modélisation d'une commune en graphe pondéré. Implémentation de BFS/DFS, Kosaraju, connectivité. Pilotage d'une équipe de 4.
 
 `Java`
+
+### [ECE Badland](https://github.com/fafifou03/ECE-Badland)
+Jeu 2D en C inspire de Badland, realise en equipe de 4 pendant les cours d'informatique a l'ECE. Scrolling horizontal, collisions par pixels, bonus/malus, checkpoints et trois niveaux jouables.
+
+`C` `Allegro` `CMake`
 
 ### ♟️ [Jeu du Quoridor](https://github.com/fafifou03/Projet-Jeu-du-Quoridor-en-C)
 Adaptation console du jeu Quoridor avec gestion des murs, des déplacements et du plateau. Un de mes premiers projets en informatique C.
