@@ -17,6 +17,11 @@ En ING3 à partir de septembre 2026, spécialisation cybersécurité — **en re
 
 ## Projets
 
+### [ECE Badland](https://github.com/fafifou03/ECE-Badland)
+Jeu 2D en C inspire de Badland, realise en equipe de 4 pendant les cours d'informatique a l'ECE. Scrolling horizontal, collisions par pixels, bonus/malus, checkpoints et trois niveaux jouables.
+
+`C` `Allegro` `CMake`
+
 ### 🔐 [CryptoBox](https://github.com/fafifou03/cryptobox)
 Application web de transfert de fichiers chiffrés. Upload, chiffrement AES-256-GCM, génération d'URL temporaire, mode lien unique, mode mot de passe, gestion des accès non autorisés et journalisation des événements.
 
